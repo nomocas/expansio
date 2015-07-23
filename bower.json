@@ -1,0 +1,30 @@
+{
+  "name": "expansio",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "Gilles Coomans <gilles.coomans@gmail.com>"
+  ],
+  "description": "Yet another string interpolation tool.",
+  "moduleType": [
+    "amd",
+    "commonjs",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "string interpolation",
+    "string expansion",
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nomocas/expansio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "statics/libs/",
+    "test",
+    "tests"
+  ]
+}
